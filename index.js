@@ -85,16 +85,13 @@ function createSelect(select, options) {
 
 // Função para alternar entre os tipos de gráfico
 
-let currentChartType = 'line';
-
-
 function changeChartType(type) {
     currentChartType = type;
     getGraph(dados, currentChartType);
 }
 
 // funcao responsavel por plotar o grafico
-function getGraph(dados, chartType = 'line') {
+function getGraph(dados, chartType = 'bar') {
 
     var options = {
         series: [{
