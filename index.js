@@ -107,11 +107,7 @@ function getGraph(dados, chartType = 'line') {
         },
         xaxis: {
             categories: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-            // labels: {
-            //     formatter: function(val) {
-            //         return "Q" + dayjs(val).quarter()
-            //     }
-            // },
+           
             group: {
                 style: {
                     fontSize: '14px',
@@ -119,8 +115,7 @@ function getGraph(dados, chartType = 'line') {
                 },
                 groups: [
                     { title: 'Months', cols: 12 },
-                    // { title: '2019', cols: 4 },
-                    // { title: '2020', cols: 4 }
+                    
                 ]
             }
         },
@@ -135,13 +130,6 @@ function getGraph(dados, chartType = 'line') {
         },
         colors: ['#85b3e3'],
        
-        // tooltip: {
-        //     x: {
-        //         formatter: function(val) {
-        //             return "Q" + dayjs(val).quarter() + " " + dayjs(val).format("YYYY")
-        //         }
-        //     }
-        // },
     };
     
     $("#chart").html("");
