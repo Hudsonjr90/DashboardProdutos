@@ -1,0 +1,35 @@
+.sales-box{
+    display: flex;
+    justify-content: center;
+}
+.sales-box h3{
+    font-size: 20px;
+}
+.button-group{
+    display: flex;
+    justify-content: center;
+}
+
+.button-group button{
+    margin: 5px;
+    border: 1px dashed #646464;
+    border-radius: 5px;
+}
+.footer-name{
+ display: flex;
+ justify-content: center;
+}
+
+.footer-name h3{
+    font-size: 19px;
+}
+
+.footer-name i {
+    color: #6494e4; 
+    font-size: 15px;
+}
+
+.bg-primary {
+  background-color: #6494e4 !important;
+}
+

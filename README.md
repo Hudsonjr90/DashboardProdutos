@@ -4,4 +4,4 @@ Este projeto tem como objetivo apresentar dashboard com 3 selects de categorias 
 
 os selects 1, 2 e 3 devem ter pelo menos 3 categorias cada um.
 
-Para o projeto em questão eu utilizei Js, HTML e CSS.
+Para o projeto em questão eu utilizei Js, HTML e CSS(bootstrap).
