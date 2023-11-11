@@ -33,3 +33,26 @@
   background-color: #6494e4 !important;
 }
 
+@media (max-width: 767px){
+    .navbar-responsive{
+        margin-right: -4px
+    }
+    .options{
+        left: 50px;
+        position: relative;
+        flex-direction: column;
+    }
+    .form-select{
+        min-width: 116px
+    }
+    .fm-1{
+        margin-left: 10px ;
+    }
+    .fm-2{
+        margin-left: 18px;
+    }
+    .fm-3{
+        margin-left: 33px;
+    }
+}
+    

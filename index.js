@@ -107,16 +107,18 @@ function getGraph(dados, chartType = 'line') {
         },
         xaxis: {
             categories: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-           
-            group: {
+            labels: {
                 style: {
                     fontSize: '14px',
                     fontWeight: 700
-                },
-                groups: [
-                    { title: 'Months', cols: 12 },
-                    
-                ]
+                }
+            },
+            title: {
+                text: 'Months',
+                style: {
+                    fontSize: '14px',
+                    fontWeight: 700
+                }
             }
         },
         yaxis: {
@@ -130,6 +132,7 @@ function getGraph(dados, chartType = 'line') {
         },
         colors: ['#85b3e3'],
        
+
     };
     
     $("#chart").html("");
