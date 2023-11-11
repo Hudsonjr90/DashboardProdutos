@@ -25,9 +25,8 @@ https://github.com/Hudsonjr90/Test-Alltax/archive/refs/heads/main.zip
 
 Para usar, siga estas etapas:
 
-```
 Abra a pasta do projeto e execute o arquivo index.html dando 2 cliques ou se tiveres a extensão live server no Vscode, execute o programa para abrir diretamente no navegador.
-```
+
 
 ## 🚀 Quer testar antes? dê uma olhada no deploy abaixo.
 * [Clique aqui!](https://test-alltax.vercel.app)
