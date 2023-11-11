@@ -7,11 +7,11 @@
 }
 .button-group{
     display: flex;
-    justify-content: center;
+    justify-content: start;
 }
 
 .button-group button{
-    margin: 5px;
+    margin-left: 15px;
     border: 1px dashed #646464;
     border-radius: 5px;
 }
@@ -44,6 +44,10 @@
     }
     .form-select{
         min-width: 116px
+    }
+    .button-group{
+       display: flex;
+       justify-content: center;
     }
     .fm-1{
         margin-left: 10px ;

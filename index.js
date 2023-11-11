@@ -84,7 +84,6 @@ function createSelect(select, options) {
 }
 
 // Função para alternar entre os tipos de gráfico
-
 function changeChartType(type) {
     currentChartType = type;
     getGraph(dados, currentChartType);
