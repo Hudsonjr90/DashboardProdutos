@@ -1,4 +1,4 @@
-# Test-Alltax
+# Dashboard Produtos
 
 Este projeto tem como objetivo apresentar dashboard com 3 selects de categorias atualizados em cascata que apresentam um resultado final na tela, desde o select 3, um número de vendas por mês para essa terceira categoria.
 
