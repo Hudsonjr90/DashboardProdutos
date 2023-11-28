@@ -13,12 +13,12 @@ Para baixar, siga estas etapas:
 
 Linux, macOS e Windows:
 ```
-git clone https://github.com/Hudsonjr90/Test-Alltax.git
+git clone https://github.com/Hudsonjr90/DashboardProdutos.git
 ```
 
 ou baixe o arquivo compactado diretamente pelo link:
 ```
-https://github.com/Hudsonjr90/Test-Alltax/archive/refs/heads/main.zip
+https://github.com/Hudsonjr90/DashboardProdutos/archive/refs/heads/main.zip
 ```
 
 ## ☕ Usando
@@ -29,4 +29,4 @@ Abra a pasta do projeto e execute o arquivo index.html dando 2 cliques ou se tiv
 
 
 ## 🚀 Quer testar antes? dê uma olhada no deploy abaixo.
-* [Clique aqui!](https://test-alltax.vercel.app)
+* [Clique aqui!](https://dashboard-produtos.vercel.app)
