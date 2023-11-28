@@ -29,4 +29,4 @@ Abra a pasta do projeto e execute o arquivo index.html dando 2 cliques ou se tiv
 
 
 ## 🚀 Quer testar antes? dê uma olhada no deploy abaixo.
-* [Clique aqui!](https://dashboard-produtos.vercel.app)
+* [Clique aqui!](https://dashboardprodutos.vercel.app)
